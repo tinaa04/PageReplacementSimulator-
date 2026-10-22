@@ -21,8 +21,6 @@ A **Python Tkinter-based simulator** that demonstrates the working of FIFO, LRU,
 
 - **Python 3**
 - **Tkinter** for GUI
-- **Matplotlib** for plotting and visualization
-- **NumPy** for data handling
 
 ---
 
@@ -30,25 +28,18 @@ A **Python Tkinter-based simulator** that demonstrates the working of FIFO, LRU,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/PageReplacementSimulator.git
+  git clone https://github.com/tinaa04/PageReplacementSimulator-.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd PageReplacementSimulator/src
+   cd PageReplacementSimulator-
    ```
-3. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
- ---
-
 ## How to Run
 
 Run the simulator using:
 
 ```bash
-python simulator.py
+python Main_Code.py
 ```
 
 ---
